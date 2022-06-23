@@ -1,0 +1,20 @@
+{
+  "$schema": "https://aka.ms/codetour-schema",
+  "title": "testing",
+  "steps": [
+    {
+      "title": "Introduction",
+      "description": "This is how we can walk users through specific steps"
+    },
+    {
+      "file": "2-js-basics/2-functions-methods/script.js",
+      "description": "Notice here how we log the message to console.",
+      "line": 4
+    },
+    {
+      "file": "2-js-basics/2-functions-methods/script.js",
+      "description": "Here we alert the message returned. Notice how they are differnet. ",
+      "line": 17
+    }
+  ]
+}
