@@ -21,4 +21,6 @@ alert(greetingMessage);
  * 
  * Create different functions, both functions that return something 
  * and functions that don't return anything.
+ * 
+ * Adding something to test
  */
