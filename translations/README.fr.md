@@ -8,7 +8,7 @@
 [![Forks](https://img.shields.io/github/forks/microsoft/Web-Dev-For-Beginners.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/microsoft/Web-Dev-For-Beginners/network/)
 [![Stars](https://img.shields.io/github/stars/microsoft/Web-Dev-For-Beginners.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/microsoft/Web-Dev-For-Beginners/stargazers/)
 
-[![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/microsoft/Web-Dev-For-Beginners)
+[![Open in Visual Studio Code](https://img.shields.io/static/v1?logo=visualstudiocode&label=&message=Open%20in%20Visual%20Studio%20Code&labelColor=2c2c32&color=007acc&logoColor=007acc)](https://open.vscode.dev/microsoft/Web-Dev-For-Beginners)
 
 # Développement Web pour débutants - Programme
 
@@ -16,7 +16,15 @@ Azure Cloud Advocates de Microsoft ont le plaisir de vous proposer un programme 
 
 **Un grand merci à nos auteurs Jen Looper, Chris Noring, Christopher Harrison, Jasmine Greenaway, Yohan Lasorsa, Floor Drees et l’artiste de sketchnote Tomomi Imura!**
 
-# Pour commencerhttps://ashy-river-0debb7803.1.azurestaticapps.net/
+# Êtes vous étudiant ?
+
+Commencez avec les ressources suivantes :
+
+[La page Hub étudiants](https://docs.microsoft.com/fr-fr/learn/student-hub/?WT.mc_id=academic-13441-cxa), vous trouverez des ressources pour les débutants, packs étudiants et des méthodes pour avoir des vouchers gratuits pour des certifications. C'est une page que vous pouvez enregistrer and vérifier de temps en temps car nous modifions le contenu mensuellement.
+
+[Microsoft Learn Student Ambassadors](https://studentambassadors.microsoft.com/?WT.mc_id=academic-13441-cxa), rejoignez une communauté globale d'étudiants ambassadeurs, cela peut vous faire découvrir Microsoft.
+
+# Pour commencer
 
 > **Instituteurs**, nous avons [inclus quelques suggestions](for-teachers.fr.md) sur la façon d’utiliser ce programme. Nous aimerions avoir vos commentaires [dans notre forum de discussion](https://github.com/microsoft/Web-Dev-For-Beginners/discussions/categories/teacher-corner)!
 
@@ -97,8 +105,9 @@ Un PDF de toutes les leçons peut être trouvé [ici](https://microsoft.github.i
 
 ## Autres programmes d’études
 
-Notre équipe produit d’autres programmes! Jettez un oeil:
+Notre équipe produit d’autres programmes! Jetez un oeil:
 
 - [Machine Learning for Beginners](https://aka.ms/ml-beginners)
 - [IoT for Beginners](https://aka.ms/iot-beginners)
 - [Data Science for Beginners](https://aka.ms/datascience-beginners)
+- [AI for Beginners](https://aka.ms/ai-beginners)
