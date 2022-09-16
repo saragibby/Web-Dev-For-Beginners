@@ -1,0 +1,21 @@
+[submodule "7-bank-project"]
+	path = 7-bank-project
+	url = https://github.com/saragibby/7-bank-project
+[submodule "1-getting-started-lessons"]
+	path = 1-getting-started-lessons
+	url = https://github.com/saragibby/1-getting-started-lessons
+[submodule "2-js-basics"]
+	path = 2-js-basics
+	url = https://github.com/saragibby/2-js-basics
+[submodule "3-terrarium"]
+	path = 3-terrarium
+	url = https://github.com/saragibby/3-terrarium
+[submodule "4-typing-game"]
+	path = 4-typing-game
+	url = https://github.com/saragibby/4-typing-game
+[submodule "5-browser-extension"]
+	path = 5-browser-extension
+	url = https://github.com/saragibby/5-browser-extension
+[submodule "6-space-game"]
+	path = 6-space-game
+	url = https://github.com/saragibby/6-space-game
